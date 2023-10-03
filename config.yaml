@@ -1,0 +1,9 @@
+yggio_account:
+  server: 'https://staging.yggio.net/'
+  username: username
+  password: password
+sender_email:
+  email_address: sender_email
+  password: sender_email_password
+  smtp_server: smpt_server
+  smtp_port: 000    
